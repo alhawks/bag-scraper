@@ -1,0 +1,1 @@
+{"availableColors": ["Sunkissed (White Sole)", "Tide Pool (Light Grey Sole)", "Kauri Zin (White Sole)", "Nikau Sapphire (White Sole)"]}
